@@ -1,4 +1,4 @@
-# Sem-foro-Eletr-nico-de-um-Est-gio
+# Semaforo-Eletronico-de-um-Estágio
 #include "io430.h"
 /* Projeto: Semáforo Eletrônico de um Estágio
 Descrição: Este faz a comutação entre as cores: Verde, Amarelo e Vermelho durante
